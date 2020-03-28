@@ -1,6 +1,6 @@
 # Getting-and-Cleaning-Data-Programming-Assignment
-Repository to store all work associated with the Programming assignment from Getting and Cleaning Data on Coursera
 
+### To Perform analysis
 * 1, download and unzip the data file into your R working directory.
 * 2, download R source code into your R working directory.
 * 3, execute R source code to generate tidy data file.
